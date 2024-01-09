@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 this is for stash.
+=======
+<<<<<<< Updated upstream
+=======
+stash change area
+>>>>>>> Stashed changes
+>>>>>>> Developer
 this is the new file from VI editor
 
 new code is updated
